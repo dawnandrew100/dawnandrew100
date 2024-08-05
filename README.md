@@ -17,7 +17,14 @@ Come along on this journey with me to explore the wonderful world of software!
 ## My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,c,cpp,go,md,html,css,js,neovim,vim,mysql,git,github,lua,regex,sqlite,svg&perline=9">
+    <img src="https://skillicons.dev/icons?i=py,r,c,cpp,go,md,html,css,js,mysql,lua,regex,sqlite,svg&perline=7">
+  </a>
+</p>
+
+## My Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=neovim,vim,git,github,regex,replit,pycharm,discord,stackoverflow,vscode,visualstudio,windows&perline=6">
   </a>
 </p>
 
