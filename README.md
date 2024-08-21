@@ -10,9 +10,6 @@ Come along on this journey with me to explore the wonderful world of software!
   <img src="https://github-stats-alpha.vercel.app/api?username=dawnandrew100&cc=22272e&tc=37BCF6&ic=AE87FF&bc=FFFFFF" height="150" alt="stats graph">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawnandrew100&layout=compact&theme=transparent&hide=html,javascript,swift,css" height="150" alt="languages graph">
 </div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dawnandrew100&theme=transparent" alt="dawnandrew100">
-</div>
 
 ## My Skills
 <p align="center">
@@ -24,7 +21,7 @@ Come along on this journey with me to explore the wonderful world of software!
 ## My Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,vim,git,github,regex,replit,pycharm,discord,stackoverflow,vscode,visualstudio,windows&perline=6">
+    <img src="https://skillicons.dev/icons?i=neovim,git,github,regex,replit,discord,stackoverflow,windows&perline=4">
   </a>
 </p>
 
