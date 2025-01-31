@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
-I am a Bioinformatics and Computational Biology PhD student on a journey through the world of computers and programming languages!
+I am a Bioinformatics and Computational Biology PhD student originally from The Bahamas on a journey through the world of computers and programming languages!
 Come along on this journey with me to explore the wonderful world of software!
 
 <div align="center">
