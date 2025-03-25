@@ -14,7 +14,7 @@ Come along on this journey with me to explore the wonderful world of software!
 ## My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,c,cpp,go,md,html,css,js,mysql,lua,regex,sqlite,svg&perline=7">
+    <img src="https://skillicons.dev/icons?i=py,r,c,go,md,html,css,js,mysql,lua,regex&perline=6">
   </a>
 </p>
 
