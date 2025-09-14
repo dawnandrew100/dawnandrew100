@@ -11,19 +11,18 @@ Come along on this journey with me to explore the wonderful world of software!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawnandrew100&layout=compact&theme=transparent&hide=html,javascript,swift,css" height="150" alt="languages graph">
 </div>
 
-## My Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,rust,r,c,md,html,css,js,mysql,regex&perline=5">
-  </a>
-</p>
+## My open source projects
 
-## My Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,git,github,regex,replit,discord,stackoverflow,windows&perline=4">
-  </a>
-</p>
+### Bioinformatics
+
+- [Seq.rs](https://github.com/dawnandrew100/seq.rs): website showcasing the use of Rust in Bioinformatics <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/rust.svg" height="16" class="image is-16x16 is-inline-block">
+- [Goombay](https://github.com/lignum-vitae/goombay): sequence alignment tool containing local alignment, global alignment, MSA, and clustering algorithms <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" height="16" class="image is-16x16 is-inline-block">
+- [Biobase](https://github.com/lignum-vitae/biobase): tool to parse, analyse, and access biological sequence data, amino acid properties, and substitution matrices. <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" height="16" class="image is-16x16 is-inline-block">
+
+### Data Processing
+
+- [Pyrolysate](https://github.com/lignum-vitae/pyrolysate): tool to parse and validate URLs and emails with structured output in JSON, CSV, or text <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" height="16" class="image is-16x16 is-inline-block">
+- [PebbleNet](https://github.com/dawnandrew100/pebblenet): retrieves and processes environmental datasets with output to JSON <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" height="16" class="image is-16x16 is-inline-block">
 
 ## My Gists
 <div align="center">
