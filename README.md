@@ -8,7 +8,7 @@ Come along on this journey with me to explore the wonderful world of software!
 
 <div align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=dawnandrew100&cc=22272e&tc=37BCF6&ic=AE87FF&bc=FFFFFF" height="150" alt="stats graph">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawnandrew100&layout=compact&theme=transparent&hide=html,javascript,swift,css" height="150" alt="languages graph">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawnandrew100&layout=compact&theme=transparent&hide=html,javascript,swift,css,prolog" height="150" alt="languages graph">
 </div>
 
 ## My open source projects
