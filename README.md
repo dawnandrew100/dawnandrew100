@@ -23,4 +23,10 @@ Come along on this journey with me to explore the wonderful world of software!
 
 ---
 
+### Niche projects
+
+- [Cargo-ryu](https://github.com/dawnandrew100/cargo-ryu): Brings cargo functionality to [RyuGod](https://ryugod.com/pages/ide/rust) <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/bash.svg" height="16">
+
+---
+
 Check out my [Gists](https://gist.github.com/dawnandrew100)
