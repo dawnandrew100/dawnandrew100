@@ -14,12 +14,18 @@ Come along on this journey with me to explore the wonderful world of software!
 - [Goombay](https://github.com/lignum-vitae/goombay): sequence alignment tool containing local alignment, global alignment, MSA, and clustering algorithms <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" height="16">
 - [Goombay-rs](https://github.com/lignum-vitae/goombay-rs): rust version of goombay <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/rust.svg" height="16"> <img src="https://github.com/lecepin/rust-logo/blob/main/images/1659953641339.png" height="16">
 - [Biobase](https://github.com/lignum-vitae/biobase): tool to parse, analyse, and access biological sequence data, amino acid properties, and substitution matrices. <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" height="16">
-- [Spindalis](https://github.com/lignum-vitae/spindalis): bioinformatics library for numerical modeling, optimisation, data analysis, and simulation <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/rust.svg" height="16"> <img src="https://github.com/lecepin/rust-logo/blob/main/images/1659953641339.png" height="16">
+
+### Numerical Computing
+- [Spindalis](https://github.com/lignum-vitae/spindalis): bioinformatics-focused library for numerical modeling, optimisation, data analysis, and simulation <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/rust.svg" height="16"> <img src="https://github.com/lecepin/rust-logo/blob/main/images/1659953641339.png" height="16">
 
 ### Data Processing
 
 - [Pyrolysate](https://github.com/lignum-vitae/pyrolysate): tool to parse and validate URLs and emails with structured output in JSON, CSV, or text <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" height="16" class="image is-16x16 is-inline-block">
 - [PebbleNet](https://github.com/dawnandrew100/pebblenet): retrieves and processes environmental datasets with output to JSON <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" height="16" class="image is-16x16 is-inline-block">
+
+### Data Structures
+
+- [Jedvek](https://github.com/lignum-vitae/jedvek): custom data structure to index a 1D array like a 2D array, provide basic math operations for a matrix, and provide ease of life functions such as creation of an identity matrix, finding the inverse of a matrix, and transposing a matrix <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/rust.svg" height="16"> <img src="https://github.com/lecepin/rust-logo/blob/main/images/1659953641339.png" height="16">
 
 ---
 
